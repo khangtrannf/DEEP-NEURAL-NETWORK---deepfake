@@ -1,0 +1,16 @@
+# Môi trường ảo Python
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# File rác của macOS
+.DS_Store
+
+# Dataset và dữ liệu nặng
+*.zip
+*.tar.gz
+.cache/
+data/

@@ -1,0 +1,6 @@
+torch
+torchvision
+kagglehub
+matplotlib
+numpy
+urllib3<2
